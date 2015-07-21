@@ -1,0 +1,6 @@
+E:\Programming\Csharp\VS2013\DeckOfCardsSol\DeckOfCards\bin\Debug\DeckOfCards.exe.config
+E:\Programming\Csharp\VS2013\DeckOfCardsSol\DeckOfCards\obj\Debug\DeckOfCards.csprojResolveAssemblyReference.cache
+E:\Programming\Csharp\VS2013\DeckOfCardsSol\DeckOfCards\bin\Debug\DeckOfCards.exe
+E:\Programming\Csharp\VS2013\DeckOfCardsSol\DeckOfCards\bin\Debug\DeckOfCards.pdb
+E:\Programming\Csharp\VS2013\DeckOfCardsSol\DeckOfCards\obj\Debug\DeckOfCards.exe
+E:\Programming\Csharp\VS2013\DeckOfCardsSol\DeckOfCards\obj\Debug\DeckOfCards.pdb
